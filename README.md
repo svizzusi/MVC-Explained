@@ -1,6 +1,6 @@
 ![MVC1](https://github.com/svizzusi/MVC-Explained/assets/121833017/e8b19bda-109f-4b4f-a78b-0dcfdb1650db)
 
-##MVC stands for Model-View-Controller, and it's a design pattern commonly used in software development to help organize and structure code in a way that separates different concerns. It's particularly useful for building applications with graphical user interfaces, but it can also be applied to other types of software.
+MVC stands for Model-View-Controller, and it's a design pattern commonly used in software development to help organize and structure code in a way that separates different concerns. It's particularly useful for building applications with graphical user interfaces, but it can also be applied to other types of software.
 
 ##Imagine you're building a web application or a software program that involves interacting with data and displaying it to users. MVC helps you break down your code into three main components:
 
